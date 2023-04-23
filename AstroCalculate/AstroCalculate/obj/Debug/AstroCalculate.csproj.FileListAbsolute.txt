@@ -1,0 +1,14 @@
+E:\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\bin\Debug\AstroCalculate.exe.config
+E:\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\bin\Debug\AstroCalculate.exe
+E:\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\bin\Debug\AstroCalculate.pdb
+E:\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.exe
+E:\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.pdb
+E:\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.csproj.CoreCompileInputs.cache
+C:\Tech\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\bin\Debug\AstroCalculate.exe.config
+C:\Tech\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\bin\Debug\AstroCalculate.exe
+C:\Tech\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\bin\Debug\AstroCalculate.pdb
+C:\Tech\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.csprojResolveAssemblyReference.cache
+C:\Tech\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.csproj.CoreCompileInputs.cache
+C:\Tech\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.exe
+C:\Tech\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.pdb
+E:\Tech Learning\ConsoleApp\AstroCalculate\AstroCalculate\obj\Debug\AstroCalculate.csproj.AssemblyReference.cache
